@@ -1,0 +1,45 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  overflow: hidden;
+  display: flex;
+  background-color: #ddccee;
+  font-family: "Courier New", Monospace;
+}
+
+div {
+  top: 5%;
+  left: 5%;
+  background-color: #bcaace;
+  border-radius: 16px;
+  position: relative;
+  width: 90%;
+  height: 80%;
+}
+
+h1 {
+  position: relative;
+  left: 50%;
+  padding-top: 25px;
+  margin-left: -35px;
+  font-size: 30px;
+}
+
+.icon {
+  border-radius: 16px;
+  margin-left: -32px;
+  position: relative;
+  left: 50%;
+}
+
+.time {
+  color: #775577;
+  left: 50%;
+  margin-left: -160px;
+  font-size: 40px;
+  position: relative;
+}
