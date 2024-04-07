@@ -7,14 +7,14 @@ html, body {
 body {
   overflow: hidden;
   display: flex;
-  background-color: #ddccee;
+  background-color: #dd99aa;
   font-family: "Courier New", Monospace;
 }
 
 div {
   top: 5%;
   left: 5%;
-  background-color: #bcaace;
+  background-color: #bb7788;
   border-radius: 16px;
   position: relative;
   width: 90%;
